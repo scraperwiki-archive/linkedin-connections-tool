@@ -1,0 +1,3 @@
+*.pyc
+scraperwiki.sqlite
+.service.dat
