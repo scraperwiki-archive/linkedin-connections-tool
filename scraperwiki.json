@@ -1,0 +1,5 @@
+{
+  "displayName": "Get LinkedIn connections",
+  "gitUrl": "git@github.com:scraperwiki/linkedin-connections-tool.git",
+  "description": "Download your connections on LinkedIn"
+}
