@@ -1,4 +1,4 @@
 # ScraperWiki LinkedIn tool application 
-consumer_key    =   'bq28iy37hgdn'
-consumer_secret =   'UBoQWt8TwjQArrl1'
+consumer_key    =   'FILL ME'
+consumer_secret =   'FILL ME'
  
